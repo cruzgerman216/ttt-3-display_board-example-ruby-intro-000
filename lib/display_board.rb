@@ -2,6 +2,7 @@
 def display_board(x)
   x_times do
     puts "hello world"
+  end
 end
 
 display_board(5)
