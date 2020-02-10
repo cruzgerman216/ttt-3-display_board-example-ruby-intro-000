@@ -1,8 +1,8 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-def display_board(x)
+def display_board(phrase, x)
   x.times do
-    puts "hello world"
+    puts phrase
   end
 end
 
-display_board(5)
+display_board("breh",5)
